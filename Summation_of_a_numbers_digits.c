@@ -24,6 +24,8 @@ int main() {
     }
     printf("Summ of number's digits: ");
     printf("%d",sum_of_digits);
+   printf("\n");
+   system("pause");
     
     return 0;
 
